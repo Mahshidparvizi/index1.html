@@ -1,0 +1,13 @@
+.sev{
+    background-color: rgb(224, 152, 226);
+    width: 25%;
+    height: 300px;
+    float: left;
+    
+}
+.sev1{
+    background-color: rgb(224, 152, 226);
+    width: 25%;
+    height: 150px;
+    float: right; 
+}
